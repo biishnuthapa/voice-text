@@ -1,3 +1,1 @@
-# voice-text
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/biishnuthapa/voice-text)
+# just wanted to build something which can count the words and also allow to type through voice command.....
